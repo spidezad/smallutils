@@ -5,5 +5,6 @@ setup(name='smallutils',
       description='Collection of small utils',
       author='Tan Kok Hua',
       author_email='kokhua81@gmail.com',
+      url='https://github.com/spidezad/smallutils',
       packages=['smallutils'],
       zip_safe=False)
